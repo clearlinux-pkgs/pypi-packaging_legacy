@@ -7,7 +7,7 @@
 #
 Name     : pypi-packaging_legacy
 Version  : 23.0.post0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/f8/31/3a2fe3f5fc01a0671ba20560c556b4239b69bfef842a20bba99e3239fd3e/packaging_legacy-23.0.post0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f8/31/3a2fe3f5fc01a0671ba20560c556b4239b69bfef842a20bba99e3239fd3e/packaging_legacy-23.0.post0.tar.gz
 Summary  : Core utilities for legacy Python packages
